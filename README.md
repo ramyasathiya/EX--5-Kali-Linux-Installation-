@@ -1,13 +1,13 @@
 # EX--5-Kali-Linux-Installation-
 # Installing Kali Linux on VirtualBox
-Objective:
+# Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
 
-Pre-requisites:
+# Pre-requisites:
 A system with Oracle VM VirtualBox installed.
 At least 4 GB RAM and 20 GB free disk space.
 Kali Linux ISO image, which can be downloaded from the official website.
-Step-by-Step Installation Guide:
+# Step-by-Step Installation Guide:
 Step 1: Download Kali Linux ISO
 Go to the Kali Linux download page.
 Download the Kali Linux ISO file.
